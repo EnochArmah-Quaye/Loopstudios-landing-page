@@ -1,0 +1,19 @@
+{
+  "name": "loop-studio-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "node-sass scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnochArmah-Quaye/Loopstudios-landing-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnochArmah-Quaye/Loopstudios-landing-page/issues"
+  },
+  "homepage": "https://github.com/EnochArmah-Quaye/Loopstudios-landing-page#readme"
+}
