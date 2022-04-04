@@ -1,0 +1,45 @@
+html {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+header {
+  background-image: url(../images/desktop/image-hero.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 500px;
+  margin: 0%;
+}
+
+#nav-items ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  color: white;
+  padding: 0.5em;
+}
+#nav-items ul li {
+  margin: 0px 1em;
+}
+#nav-items ul li.logo {
+  margin: 0px auto 0px 0px;
+}
+#nav-items ul li img {
+  max-width: 100%;
+}
+
+h1 {
+  padding: 0 0 0 0;
+  margin: 10% 20% 0 10%;
+}
+h1 #text1 {
+  border-style: solid;
+  border-color: white;
+  color: white;
+  padding: 0% 0% 0% 0%;
+}
+
+/*# sourceMappingURL=style.css.map */
